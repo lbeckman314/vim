@@ -146,7 +146,7 @@ hi markdownH6 ctermfg=212 ctermbg=NONE cterm=NONE guifg=#ff79c6 guibg=NONE gui=N
 
 hi markdownCode ctermfg=228 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 hi markdownCodeBlock ctermfg=228 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
-hi markdownCodeDelimiter ctermfg=228 ctermbg=NONE cterm=NONE guifg=#fffffff guibg=NONE gui=NONE
+hi markdownCodeDelimiter ctermfg=228 ctermbg=NONE cterm=NONE guifg=#ffffff guibg=NONE gui=NONE
 
 hi markdownBlockquote ctermfg=84 ctermbg=NONE cterm=NONE guifg=#50fa7b guibg=NONE gui=NONE
 hi markdownListMarker ctermfg=84 ctermbg=NONE cterm=NONE guifg=#50fa7b guibg=NONE gui=NONE
